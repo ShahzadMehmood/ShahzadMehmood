@@ -44,3 +44,10 @@ I take full ownership of projects — from architecture design through Play Stor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzad-mehmood-aa92aa275/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0186d5f4f78c448ee8)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzadmehmood1246@gmail.com)
+
+
+## 📊 GitHub Stats
+
+![Shahzad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahzadMehmood&theme=default&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadMehmood&layout=compact&hide_border=true)
