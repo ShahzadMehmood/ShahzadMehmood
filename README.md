@@ -111,14 +111,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahzadMehmood&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadMehmood&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahzadMehmood&theme=github"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShahzadMehmood&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🤝 Let's Work Together
